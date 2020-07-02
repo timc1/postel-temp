@@ -1,0 +1,10 @@
+{
+  "name": "postel",
+  "version": "0.0.0",
+  "description": "Be lenient in what you accept, strict in what you put out ❤️",
+  "main": "lib/index.js",
+  "repository": "https://github.com/timc1/postel",
+  "author": "Tim <timchang.tcc@gmail.com>",
+  "license": "MIT"
+}
+
